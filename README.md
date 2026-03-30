@@ -18,10 +18,10 @@ Lab Reports
 | LAB 1 | Lab Report 1 | [View](./Labs/Lab_1.pdf) |
 | LAB 2 | Lab Report 2 | [View](./Labs/Lab_2.pdf) |
 | LAB 3 | Lab Report 3 | [View](./Labs/Lab_3.pdf) |
-| LAB 4 | Lab Report 4 | [View](./Labs/lab_4.pdf) |
-| LAB 5 | Lab Report 5 | [View](./Labs/lab_5.pdf) |
-| LAB 6 | Lab Report 6 | [View](./Labs/lab_6.pdf) |
-| LAB 7 | Lab Report 7 | [View](./Labs/lab_7.pdf) |
+| LAB 4 | Lab Report 4 | [View](./Labs/Lab_4.pdf) |
+| LAB 5 | Lab Report 5 | [View](./Labs/Lab_5.pdf) |
+| LAB 6 | Lab Report 6 | [View](./Labs/Lab_6.pdf) |
+| LAB 7 | Lab Report 7 | [View](./Labs/Lab_7.pdf) |
 
 ---
 
